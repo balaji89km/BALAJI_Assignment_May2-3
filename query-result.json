@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "queryId": "2121170d-6e7b-4226-b06b-7e4d472e083d",
+  "documentId": "b25d984b-c647-4a6b-9430-1214f8be6d1a",
+  "query": "tell me the bill amount",
+  "response": {
+    "answerToQuery": "The bill amount is $5,000,000.00.",
+    "extractedInformation": {
+      "mainTopic": "Invoice billing amount",
+      "summary": "The document is an invoice (INV-9263) issued on 10/15/2025 to Shan and Co, showing a subtotal and total of $5,000,000.00 with no payments made.",
+      "keyPoints": [
+        "Total amount due: $5,000,000.00",
+        "No payments have been recorded (Payments: $0.00)",
+        "Due amount matches the total: $5,000,000.00"
+      ],
+      "relevantSections": [
+        "Total",
+        "Due (USD)",
+        "Payments"
+      ]
+    },
+    "confidence": 0.96,
+    "processingTime": 779
+  },
+  "timestamp": "2026-05-10T16:25:12.050Z"
+}

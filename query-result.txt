@@ -1,0 +1,36 @@
+QUERY ANALYSIS RESULTS
+==================================================
+
+YOUR QUESTION:
+from the attached document summarize the below
+train name
+passenger name
+seat number 
+fare
+
+ANSWER:
+Train: CBE MAS SF EXPTHIRD AC (3A); Passenger: BALAJI KM; Seat: B7/40 SIDE UPPER; Fare: ₹890.85
+
+KEY INFORMATION EXTRACTED:
+1. Passenger name: BALAJI KM
+2. Train name/number: CBE MAS SF EXPTHIRD AC (3A) (Train No. 413677196712682)
+3. Confirmed seat: B7/40 SIDE UPPER
+4. Total fare (including fees and taxes): ₹890.85
+
+DOCUMENT SUMMARY:
+The document is an electronic reservation slip for passenger BALAJI KM on the CBE‑MAS Superfast Express (3A). The confirmed seat is B7/40 side upper and the total fare paid is ₹890.85.
+
+MAIN TOPIC:
+Railway e-ticket details
+
+RELEVANT SECTIONS:
+1. PNRTrain No./NameClass section
+2. Payment Details section
+
+METADATA:
+──────────────────────────────────────────────────
+Confidence: 92%
+Processing Time: 2158ms
+Document ID: 47e936fe-2c47-4bf0-bde2-a58efe90cbb0
+Query ID: 1cf82b7d-51fb-4768-ac49-dab03bc8af8e
+Timestamp: 10/5/2026, 10:32:24 pm
